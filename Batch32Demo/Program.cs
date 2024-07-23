@@ -9,6 +9,7 @@ namespace Batch32Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
